@@ -10,7 +10,7 @@
 
 ### Escrevendo livros
 
--[Bookdown](https://bookdown.org/yihui/bookdown/)
+- [Bookdown](https://bookdown.org/yihui/bookdown/)
 
 
 
