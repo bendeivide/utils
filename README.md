@@ -12,5 +12,9 @@
 
 - [Bookdown](https://bookdown.org/yihui/bookdown/)
 
+## Ciência de dados
+
+- [Introduction to Data Science](https://rafalab.github.io/dsbook/)
+
 
 
